@@ -5,7 +5,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 ![ProductMuse](ProductMuse.png "ProductMuse")
 
-## Intallation Guide
+## Intallation
 
 <b>Prerequisites</b>
 Before installing, ensure you have the following:
@@ -24,9 +24,9 @@ cd <PROJECT_FOLDER>
 
 ### Step 2: Open Jupyter Notebook in JupyterLab
 
-Ensure that <PROJECT_FOLDER> is accessible in JupyterLab.
- * In JupyterLab, use the "Open from Path" option to load ProductMuse_v1.ipynb
- * <b>Similarly, load oneConnection.env and populate the variable keys with appropriate values.</b>
+Ensure that ```<PROJECT_FOLDER>``` is accessible in JupyterLab.
+ * In JupyterLab, use the "Open from Path" option to load ```ProductMuse_v1.ipynb```.
+ * <b>Similarly, load ```oneConnection.env``` and populate the variable keys with appropriate values.</b>
 
 ### Step 3: Run the Jupyter Notebook
 
