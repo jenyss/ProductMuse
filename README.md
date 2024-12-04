@@ -8,11 +8,10 @@ If you have any questions or would like to collaborate, feel free to reach out t
 ## Intallation
 
 <b>Prerequisites</b>
-Before installing, ensure you have the following:
 
-* Accesss to <b>JupyterLab</b> or <b>Google Colab</b> or to another interactive computing environment where you can run this Jupyter Notebook.
-* <b>Access to a Large Language Model API</b> for evaluating your product discovery prompts.
-* <b>API access to Jira, Miro</b>, or another tool that stores data for product discovery.
+* Access to <b>JupyterLab, Google Colab<b>, or another interactive computing environment to run this Jupyter Notebook.
+* <b>Access to a Large Language Model API<b> for evaluating your product discovery prompts.
+* <b>API access to Jira, Miro<b>, or another tool that stores data for product discovery.
 
 ### Step 1: Clone the Repository
 
