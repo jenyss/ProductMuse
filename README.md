@@ -32,7 +32,7 @@ cd <PROJECT_FOLDER>
 
 ### Step 2: Open Jupyter Notebook in JupyterLab
 
-Ensure that ```<PROJECT_FOLDER>``` is accessible in JupyterLab.
+Ensure that ```<PROJECT_FOLDER>``` is accessible in JupyterLab by setting it as your working directory in JupyterLab.
  * In JupyterLab, use the "Open from Path" option to load ```ProductMuse_v1.ipynb```.
  * Similarly, load ```oneConnection.env``` and populate the variable keys with appropriate values.
 
