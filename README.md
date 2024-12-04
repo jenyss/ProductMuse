@@ -7,10 +7,10 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 The Jupyter Notebook facilitates Product Discovery exploration by integrating data from tools like Jira and Miro. It follows these steps:
 
-1. <b>Data Collection:</b> Connects to Jira and extracts relevant data, such as issue summaries, descriptions, and user comments, to gather insights into ongoing projects and challenges.
+1. <b>Data Collection:</b> Connects to Jira and Miro and extracts relevant data, such as issue summaries, descriptions, and user comments, to gather insights into ongoing projects challenges and customer feedback.
 2. <b>Data Transformation:</b> The collected information is organized into structured formats (DataFrames) to enable easy analysis, leveraging tools like pandas.
-3. <b>Integration with Large Language Models (LLMs):</b> Uses an LLM (OpenAI GPT-4) to evaluate and generate insights from the data, helping to identify key product opportunities. This process follows a product discovery template, focusing on extracting themes, pain points, and potential areas of improvement from user and team feedback.
-4. <b>Opportunity Identification:</b> The Notebook helps uncover actionable insights by systematically analyzing customer feedback and project data, enabling better decision-making for product roadmaps and prioritization.
+3. <b>Integration with Large Language Models (LLMs):</b> Uses an LLM (OpenAI GPT-4) to evaluate and analyze the data, aiming to identify key product opportunities. This process is guided by a product discovery template that references two additional templates: a strategy template and a product description template. This approach provides flexibility in defining your product discovery prompts, ensuring that each Jira issue or Miro text is evaluated in the context of your strategic goals and product details. Feel free to adjust the templates to make them more focused or adapt them as needed for your context.
+4. <b>Opportunity Identification:</b> The Notebook helps uncover product opportunities by systematically analyzing the data, enabling better decision-making for product roadmaps and prioritization.
 
 ![ProductMuse](ProductMuse.png "ProductMuse")
 
