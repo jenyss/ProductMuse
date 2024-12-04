@@ -12,12 +12,12 @@ Before installing, ensure you have the following:
 
 * Accesss to <b>JupyterLab</b> or <b>Google Colab</b> or to another interactive computing environment where you can run this Jupyter Notebook.
 * <b>Access to a Large Language Model API</b> for evaluating your product discovery prompts.
-* <b>API access to Jira, Miro<b>, or another tool that stores data for product discovery.
+* <b>API access to Jira, Miro</b>, or another tool that stores data for product discovery.
 
 ### Step 1: Clone the Repository
 
 Clone this repository to your local machine
-<code>
+```
 git clone <REPOSITORY_URL>
 cd <PROJECT_FOLDER>
-</code>
+```
