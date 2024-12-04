@@ -35,7 +35,7 @@ To execute the notebook, select each cell and press ```Shift + Enter```.
 
 The Jupyter Notebook facilitates Product Discovery exploration by integrating data from tools like Jira and Miro. It follows these steps:
 
-#### Data Collection: Connects to Jira and extracts relevant data, such as issue summaries, descriptions, and user comments, to gather insights into ongoing projects and challenges.
-#### Data Transformation: The collected information is organized into structured formats (DataFrames) to enable easy analysis, leveraging tools like pandas.
-#### Integration with Large Language Models (LLMs): Uses an LLM (OpenAI GPT-4) to evaluate and generate insights from the data, helping to identify key product opportunities. This process follows a product discovery template, focusing on extracting themes, pain points, and potential areas of improvement from user and team feedback.
-#### Opportunity Identification: The Notebook helps uncover actionable insights by systematically analyzing customer feedback and project data, enabling better decision-making for product roadmaps and prioritization.
+1. <b>Data Collection:</b> Connects to Jira and extracts relevant data, such as issue summaries, descriptions, and user comments, to gather insights into ongoing projects and challenges.
+2. <b>Data Transformation:</b> The collected information is organized into structured formats (DataFrames) to enable easy analysis, leveraging tools like pandas.
+3. <b>Integration with Large Language Models (LLMs):</b> Uses an LLM (OpenAI GPT-4) to evaluate and generate insights from the data, helping to identify key product opportunities. This process follows a product discovery template, focusing on extracting themes, pain points, and potential areas of improvement from user and team feedback.
+4. <b>Opportunity Identification:</b> The Notebook helps uncover actionable insights by systematically analyzing customer feedback and project data, enabling better decision-making for product roadmaps and prioritization.
